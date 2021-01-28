@@ -1,0 +1,28 @@
+{
+    "name":"Sasi Kumar",
+    "job_description":"A Passionate Japanese Certified(N3)" ,
+    "job__description" : "Bilingual Web and App Developer",
+    "about_me":"About me",
+    "skills" : "Skills",
+    "experience" :"Experience",
+    "contact" : "Contact",
+    "projects" : "Projects",
+    "react" : "React",
+    "react_native" :"React Native",
+    "Adobe_XD" : "Adobe XD",
+    "Rest_API" : "Rest API",
+    "skill_set" : "Skill Set",
+    "title" : "AXR-Job Search Application",
+    "des" : "This Application is used to book the room for the particular resort.The Admin will create the users. Once the users are created they are able to book the rooms for the particular date.To facilitate administrative tasks for a resort. Functions includs User, Booking and Points management",
+    "des1" : "Job ads will be B2B and candidate applications will be B2C. We have developed a mobile app for both Android and iOS for applicants, and a web app for recruiters.",
+    "title1" : "Resort Membership and Reservation Management System.",
+    "resume" : "DOWNLOAD CV",
+    "content" : "Project Details",
+    "experience1" : "Years Of Experience",
+    "projects1" : " Projects",
+    "clients" :" Clients" ,
+    "email" : "Email" ,
+    "username" : "Username",
+    "project_title" : "Here are some Projects Which I have done for making lives of People Easy😄"
+
+}
